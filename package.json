@@ -1,0 +1,26 @@
+{
+  "name": "d3-force-bounded-box",
+  "version": "0.0.0",
+  "description": "Keep objects inside of a box",
+  "main": "index.js",
+  "scripts": {
+    "test": "xo"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stevemao/d3-force-bounded-box.git"
+  },
+  "author": "Steve Mao",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stevemao/d3-force-bounded-box/issues"
+  },
+  "homepage": "https://github.com/stevemao/d3-force-bounded-box#readme",
+  "peerDependencies": {
+    "d3-force": "^2.0.0"
+  },
+  "devDependencies": {
+    "d3-force": "^2.0.0",
+    "xo": "^0.23.0"
+  }
+}
