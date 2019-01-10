@@ -1,6 +1,6 @@
 {
   "name": "d3-force-bounded-box",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Keep objects inside of a box",
   "main": "index.js",
   "scripts": {
