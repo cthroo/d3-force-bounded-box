@@ -1,6 +1,6 @@
-const constant = require('d3-force/src/constant');
+import constant from 'd3-force/src/constant';
 
-module.exports = function () {
+export default function () {
 	let nodes;
 	let sizes;
 	let bounds;
@@ -64,4 +64,4 @@ module.exports = function () {
 	};
 
 	return force;
-};
+}
