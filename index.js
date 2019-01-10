@@ -1,4 +1,4 @@
-import constant from 'd3-force/src/constant';
+const constant = require('d3-force/src/constant');
 
 module.exports = function () {
 	let nodes;
