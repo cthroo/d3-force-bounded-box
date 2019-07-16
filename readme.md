@@ -3,8 +3,8 @@ A [D3 force](https://github.com/d3/d3-force#forces). Inspired by https://bl.ocks
 ## Examples:
 
 ```js
-const boundedBox = require('d3-force-bounded-box')
-const { forceSimulation } = require('d3-force');
+import boundedBox from 'd3-force-bounded-box'
+import { forceSimulation } from 'd3-force'
 
 const nodeData = [
   {
